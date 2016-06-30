@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Jeff/Dropbox/PORTFOLIO/LAPP_dev_server","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"C:/Users/Jeff/Dropbox/PORTFOLIO/LAPP_dev_server","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Jeff/Dropbox/PORTFOLIO/LAPP_dev_server","disabled":false,"__vagrantfile":true}}}
